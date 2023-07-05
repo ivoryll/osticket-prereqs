@@ -21,11 +21,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Part 1 Create an Azure Virtual Machine Windows 10, 4 vCPUs
-- Part 2 (Installation) Download and install PHPManager For IIS, rewrite, VC_redist.x86.exe, MySQL 5.5.62
-- continue Setting up osticket in the browser
-- Part 3 (Post Installation Setup)
-- Configure Roles, Configure Departments, Configure Teams, Configure Agents (workers), Configure Users (customers), Configure SLA, Configure Help Topics
-- Part 4 (Tickets and Ticket Lifecycle)
+- Create an Azure Virtual Machine Windows 10, 4 vCPUs
+- Create a Resource Group
+- Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
+- When creating the VM, allow it to create a new Virtual Network (Vnet)
+
+
+
+
 
 
